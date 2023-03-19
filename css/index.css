@@ -1,0 +1,16 @@
+style
+   *{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+#H1{
+    background-color: black;
+    width: 100%;
+    height: 55px;
+    color: white;
+    padding: 10px;
+    margin-bottom: 50px;
+ }
